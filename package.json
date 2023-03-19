@@ -11,5 +11,8 @@
     "GULP"
   ],
   "author": "Mario Rodríguez",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.59.3"
+  }
 }
