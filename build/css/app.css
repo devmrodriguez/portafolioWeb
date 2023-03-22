@@ -391,3 +391,16 @@ h2 {
 h3 {
   font-size: 3rem;
 }
+
+.header {
+  background-color: #ffffff;
+}
+.header .contenido-header {
+  padding: 1.8rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header .navegacion {
+  display: none;
+}

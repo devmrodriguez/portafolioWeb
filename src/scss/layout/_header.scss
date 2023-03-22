@@ -1,0 +1,21 @@
+@use 'base/variables' as v;
+@use 'base/mixins' as m;
+
+.header {
+    background-color: v.$blanco;
+
+    .contenido-header {
+        padding: 1.8rem;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .navegacion {
+        display: none;
+    }
+
+    .toggle {
+        
+    }
+}
